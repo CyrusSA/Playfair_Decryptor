@@ -1,0 +1,1 @@
+A decryptor that decrypts plaintext encoded with the playfair cipher. Utilizes multidimensional arrays(matrixes) to create the encryption matrix and then applies a set series of algorithms on the ciphertext referring to the encryption matrix to produce plaintext.
